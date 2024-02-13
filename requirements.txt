@@ -1,0 +1,9 @@
+flask
+googlesearch
+bs4
+requests
+webbrowser
+os
+gTTs
+playsound
+speech_recognition
