@@ -29,5 +29,5 @@ def search1():
         return render_template("index.html",answer1=ans2,question=query2)
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
