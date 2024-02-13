@@ -6,4 +6,4 @@ gunicorn
 gTTs
 playsound==1.2.2
 SpeechRecognition
-PyGObject
+glib==2.64.0
