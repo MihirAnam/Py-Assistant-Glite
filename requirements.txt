@@ -5,3 +5,4 @@ beautifulsoup4
 gunicorn
 gTTs
 playsound==1.2.2
+SpeechRecognition
