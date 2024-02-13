@@ -4,4 +4,4 @@ bs4
 requests
 gTTs
 playsound
-speech_recognition
+SpeechRecognition
