@@ -4,3 +4,4 @@ googlesearch-python==1.2.3
 beautifulsoup4
 gunicorn
 gTTs
+playsound
