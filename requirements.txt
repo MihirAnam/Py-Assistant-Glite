@@ -2,7 +2,6 @@ flask
 googlesearch-python
 bs4
 requests
-os
 gTTs
 playsound
 speech_recognition
