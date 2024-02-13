@@ -1,5 +1,5 @@
 flask
-googlesearch
+googlesearch-python
 bs4
 requests
 webbrowser
